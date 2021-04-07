@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-07T06:17:03.703Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="l76rqK6reEww-e9BuR6E" compressed="false" version="14.5.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-07T06:17:43.084Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="6d0wiH8XkVzoJ1xmOQhK" compressed="false" version="14.5.7" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="711" dy="397" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -104,13 +104,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dUK6E0IwJtis1xY8LVZJ-46" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="410" y="190" width="86" height="30" as="geometry" />
+          <mxGeometry x="410" y="214" width="86" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dUK6E0IwJtis1xY8LVZJ-44" value="HotFix" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="dUK6E0IwJtis1xY8LVZJ-46">
+        <mxCell id="dUK6E0IwJtis1xY8LVZJ-44" value="HotFix热修复" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="dUK6E0IwJtis1xY8LVZJ-46">
           <mxGeometry width="86" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="dUK6E0IwJtis1xY8LVZJ-45" value="" style="line;strokeWidth=2;html=1;fillColor=#0000FF;strokeColor=#0000FF;" vertex="1" parent="dUK6E0IwJtis1xY8LVZJ-46">
-          <mxGeometry x="13" y="20" width="60" height="10" as="geometry" />
         </mxCell>
         <mxCell id="dUK6E0IwJtis1xY8LVZJ-47" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="27.5" y="350" width="90" height="30" as="geometry" />
